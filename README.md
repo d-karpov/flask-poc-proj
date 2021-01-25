@@ -1,5 +1,5 @@
 # About
-This's small REST app was made like as proof of concept. Solution based on flask+uWSGI+nginx and running as docker multy-containers app (for non-docker build and Windows usage see branch 'non-docker-proj').
+This's small REST app was made like as proof of concept. Solution based on flask+uWSGI+nginx and running as docker multy-containers app (for non-docker build and Windows simple test/usage see branch 'non-docker-proj').
 
 Task is very simple - find shortest path between two points setted as *city_start* and *city_finish* variables of request based on given *matrix_distance* then show it with distance value. Also simple API key validation was used.
 
