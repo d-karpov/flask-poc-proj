@@ -11,7 +11,7 @@ Task is very simple - find shortest path between two points setted as *city_star
       >/env/Scripts/activate
 - [x] Install all required python modules and start app :
 
-		  (env)>pip install -r requirements.txt
+      (env)>pip install -r requirements.txt
       (env)>/flask/run.py
 
 If all goes right you'll see something like this:
