@@ -4,12 +4,12 @@ This's small REST app was made like as proof of concept. Solution based on flask
 Task is very simple - find shortest path between two points setted as *city_start* and *city_finish* variables of request based on given *matrix_distance* then show it with distance value. Also simple API key validation was used.
 
 # Installation for Windows
-- [x] Copy repo. 
-- [x] Inside the repo folder make virtual enviroment for testing and activate it:
+:white_check_mark: Copy repo.     
+:white_check_mark: Inside the repo folder make virtual enviroment for testing and activate it:    
       
       >python -m venv env
       >/env/Scripts/activate
-- [x] Install all required python modules and start app :
+:white_check_mark: Install all required python modules and start app :    
 
       (env)>pip install -r requirements.txt
       (env)>/flask/run.py
