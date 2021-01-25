@@ -4,9 +4,9 @@ This's small REST app was made like as proof of concept. Solution based on flask
 Task is very simple - find shortest path between two points setted as *city_start* and *city_finish* variables of request based on given *matrix_distance* then show it with distance value. Also simple API key validation was used.
 
 # Installation
-- [x] Make shure that you have installed docker and all requirements for it. This [link](https://docs.docker.com/engine/install/ubuntu/) may help.
-- [x] Copy repo.
-- [x] Run following code to build and start app:
+:white_check_mark: Make shure that you have installed docker and all requirements for it. This [link](https://docs.docker.com/engine/install/ubuntu/) may help.    
+:white_check_mark: Copy repo.    
+:white_check_mark: Run following code to build and start app:    
 
 		$ cd flask-poc-proj
 		$ sudo docker-compose up --build
